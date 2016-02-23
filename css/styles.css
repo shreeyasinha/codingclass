@@ -1,0 +1,48 @@
+/* css */
+/* My First Style Sheet
+Author: Shreeya Sinha; */
+body{
+	background:#70D6F6;
+	margin: 0 auto;
+	font-family:'Arial'; 
+}
+h1{
+	color:#F6509F;
+	font-family: 'Impact';
+	font-size: 3em;
+	text-decoration: underline;
+	text-align: center;
+	border-style: solid;
+	padding: 10px;
+}
+h1:hover{
+	color:magenta;
+}
+p{
+	color:#A7FF79;
+	font-family: Impact,"Arial Black","sans serif";
+	font-size: 10em;
+	text-transform: uppercase;
+}
+p:first-letter {
+    font-size: 200%;
+    color: #8A2BE2;
+}
+p:first-line{
+	color:#269D1C;
+}
+/* font styles */
+#content{
+	width:600px;
+	border-width: 10px;
+	border-color: #000;
+	border-style: solid;
+	background-color:#D34555;
+	margin:50px auto 0 auto;
+	padding: 20px;
+	border-radius: 100%;
+	overflow: hidden;
+}
+hr{
+	border-color:#1702AF;
+}

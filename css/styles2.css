@@ -1,0 +1,22 @@
+/* css */
+
+body{
+	background:#5EB3FF;
+	font-family:arial; 
+	margin: 0 auto;
+}
+p{
+	color:#8C2756;
+}
+h1{
+	color:#8C2756;
+	font-family: 'Impact';
+	font-size: 3em;
+	text-decoration: underline;
+	text-align: center;
+	padding: 10px;
+}
+
+a{
+	color:#A65362;
+}
